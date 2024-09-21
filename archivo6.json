@@ -6,5 +6,10 @@
     {
         "name":"pau",
         "age":25
+    },
+    {
+        "name":"sofi",
+        "age":28
     }
+
 ]
